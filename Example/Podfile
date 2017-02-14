@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TPALCredit_Example' do
+  pod 'TPALCredit', :path => '../'
+
+  target 'TPALCredit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

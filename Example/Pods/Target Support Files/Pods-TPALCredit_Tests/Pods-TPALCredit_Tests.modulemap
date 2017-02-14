@@ -1,0 +1,6 @@
+framework module Pods_TPALCredit_Tests {
+  umbrella header "Pods-TPALCredit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

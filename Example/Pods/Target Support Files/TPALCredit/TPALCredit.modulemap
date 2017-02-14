@@ -1,0 +1,6 @@
+framework module TPALCredit {
+  umbrella header "TPALCredit-umbrella.h"
+
+  export *
+  module * { export * }
+}

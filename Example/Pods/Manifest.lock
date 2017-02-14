@@ -1,0 +1,16 @@
+PODS:
+  - TPALCredit (0.1.0)
+
+DEPENDENCIES:
+  - TPALCredit (from `../`)
+
+EXTERNAL SOURCES:
+  TPALCredit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TPALCredit: 894deaaa1d2c9cbaec4ad62b55201d771124e760
+
+PODFILE CHECKSUM: 0701242310fc268cef721ac64741bd8b0a064b2f
+
+COCOAPODS: 1.1.1
