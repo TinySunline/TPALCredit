@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/TPALCredit.svg?style=flat)](http://cocoapods.org/pods/TPALCredit)
 [![Platform](https://img.shields.io/cocoapods/p/TPALCredit.svg?style=flat)](http://cocoapods.org/pods/TPALCredit)
 
+## 参考资料
+官网集成文档:https://zmmcportal.zmxy.com.cn/technology/openDoc.htm?id=88
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
