@@ -40,6 +40,6 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
    s.frameworks = 'MobileCoreServices', 'CFNetwork','MessageUI','EventKit','MessageUI','AssetsLibrary','CoreMotion','SystemConfiguration','CoreTelephony'
-    s.library = 'Libz'
+    s.library = 'lib'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
